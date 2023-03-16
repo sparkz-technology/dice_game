@@ -16,6 +16,6 @@ if (dice1 > dice2) {
     console.log("player 2 win");
 }
 else {
-    document.querySelector("h1").innerHTML = "draw";
+    document.querySelector("h1").innerHTML = "Draw";
 	console.log("draw");
 }
